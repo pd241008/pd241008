@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on - Web Development
 - 📫 How to reach me GMAIL- prathmeshpdesai@gmail.com
 - Instagram Profile - prathmesh_1d 
--Linkdein - www.linkedin.com/in/prathmesh-desai-288656288
--Skills I Know - Java, C and C++ programming ,Python ,Web Development,Data Structres And Algorithms
+- Linkdein - www.linkedin.com/in/prathmesh-desai-288656288
+- Skills I Know - Java, C and C++ programming ,Python ,Web Development,Data Structres And Algorithms
 
