@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Prathmesh P. Desai<br>👀 I’m interested in Software Development (Android App Development)<br>🌱 I’m currently learning S.R.M. University KTR<br>💞️ I’m looking to collaborate on - Web Development , Data Structres And Algorithms<br>📫 How to reach me GMAIL- prathmeshpdesai@gmail.com<br>Instagram Profile - prathmesh_1d<br>Linkdein - www.linkedin.com/in/prathmesh-desai-288656288<br>Skills I Know - Java, C and C++ programming ,Python ,Web Development,Data Structres And Algorithms
+👋 Hi, I’m Prathmesh P. Desai<br>👀 I’m interested in Software Development (Android App Development and Full Stack Web Deveplopment)<br>🌱 I’m currently learning S.R.M. University KTR<br>💞️ I’m looking to collaborate on - Web Development , Data Structres And Algorithms<br>📫 How to reach me GMAIL- prathmeshpdesai@gmail.com<br>Instagram Profile - prathmesh_1d<br>Linkdein - www.linkedin.com/in/prathmesh-desai-288656288<br>Skills I Know - Java, C and C++ programming ,Python ,Web Development,Data Structres And Algorithms
 
 
 ## 🌐 Socials:
