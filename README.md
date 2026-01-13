@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Prathmesh P. Desai<br>👀 💻 Software Developer | Full Stack Web | AI/ML Enthusiast<br>🌱Currently pursuing B.Tech at SRM University, KTR<br>💞️ I’m looking to collaborate on - I’m a passionate developer who enjoys building real-world, production-grade applications using modern web technologies, backend systems, and machine learning. I focus on writing clean, scalable code and love working on projects that combine engineering + impact.<br>📫 How to reach me GMAIL- prathmeshpdesai@gmail.com<br>Instagram Profile - prathmesh_1d<br>Linkdein - www.linkedin.com/in/prathmesh-desai-288656288<br><br><br>
+👋 Hi, I’m Prathmesh P. Desai<br>👀 💻 Software Developer | Full Stack Web | AI/ML Enthusiast<br>🌱Currently pursuing B.Tech at SRM University, KTR<br>💞️I’m a passionate developer who enjoys building real-world, production-grade applications using modern web technologies, backend systems, and machine learning. I focus on writing clean, scalable code and love working on projects that combine engineering + impact.<br>📫 How to reach me GMAIL- prathmeshpdesai@gmail.com<br>Instagram Profile - prathmesh_1d<br>Linkdein - www.linkedin.com/in/prathmesh-desai-288656288<br><br><br>
 
 
 ## 🌐 Socials:
