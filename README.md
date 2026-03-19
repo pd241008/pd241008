@@ -34,7 +34,7 @@ semantic search, and infra-aware health reporting.
 
 ## ⚡ Production Metrics (Milan Platform)
 
-- 🎫 **5,400+ paid tickets** processed across dual ticket tiers
+- 🎫 **5,400+ passes sold** processed across dual ticket tiers
 - 📈 **99.9% uptime** — zero service crashes under peak load
 - 💾 **~60-70MB** Node.js backend memory footprint
 - 🔐 Dual auth flows: Google OAuth + custom server-generated OTP
