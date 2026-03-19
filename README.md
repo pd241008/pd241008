@@ -14,7 +14,7 @@ platform with a distributed async ingestion pipeline, RAG-based
 semantic search, and infra-aware health reporting.
 
 📫 **Reach me:** prathmeshpdesai@gmail.com  
-🌐 **Portfolio:** [ct-os-dev-porfolio.vercel.app](https://ct-os-dev-porfolio.vercel.app) — *type `dedsec` in the terminal*
+🌐 **Portfolio:** [ct-os-dev-porfolio.vercel.app](https://ct-os-dev-porfolio.vercel.app) 
 
 ---
 
