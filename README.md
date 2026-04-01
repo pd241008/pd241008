@@ -1,7 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I'm **Prathmesh P. Desai**  
-🔧 Backend-Focused Full Stack Developer | Technical Lead | AI/ML Systems  
+👋 Hi, I'm **Prathmesh P. Desai** 🔧 Backend-Focused Full Stack Developer | Technical Lead | AI/ML Systems  
 🎓 B.Tech Computer Science — SRM University, KTR (2023–2027)  
 🏆 Technical Lead — Milan '25 & '26  
 🚀 I build production-grade backend systems, async pipelines, and
