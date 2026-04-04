@@ -24,9 +24,9 @@ semantic search, and infra-aware health reporting.
 | [Milan Core Platform](https://www.srmmilan.in) | Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures | 🏁 Operated & Retired |
 | [ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit) | Convention-driven Express scaffolding. `npx @pd241008/expresskit init` | ✅ Live on npm |
 | [IntelliDoc](https://github.com/pd241008/IntelliDoc-Query) | Async RAG document intelligence backend — OCR → Celery → Embeddings → ChromaDB | 🔨 Building |
-| [Taskiee](https://github.com/pd241008/Taskiee) | Role-based task management portal — Neo-brutalist Kanban with drag-and-drop, PRESIDENT/ADMIN hierarchy, and team analytics | ✅ Live |
+| [Taskiee](https://github.com/pd241008/Taskiee) | Role-based task management portal — Neo-brutalist Kanban with drag-and-drop | ✅ Live |
 | [ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app) | Terminal-based portfolio. The terminal IS the router. | ✅ Live |
-| AQI Prediction Engine | ML pollution forecast model | ✅ Live |
+| [AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/) | ML pollution forecast model | ✅ Live |
 | [NeuroTrack](https://neuro-track-lime.vercel.app/) | AI wellness dashboard with RAG journal search | ✅ Live |
 
 ---
@@ -44,27 +44,18 @@ semantic search, and infra-aware health reporting.
 
 ## 🔬 Research & In-Design
 
-These are projects currently in architectural design or active
-research — not yet in active development but with defined
-system architecture and documented technical decisions.
-
 | Project | What it is | Stage |
 |---|---|---|
-| Project Omega | Enterprise-grade distributed ledger — CQRS, Event Sourcing, Saga orchestration, Raft consensus | 🔬 Research |
-| Taskiee → AI-Ops Board | Expanding Taskiee with event-driven monitoring — autonomous URL health checks, AI root-cause analysis via Playwright, and real-time WebSocket ticket generation | 📐 Designing |
-| CodeQuest Playground | Gamified backend learning platform — real puzzle execution in isolated WebContainer sandboxes | 📐 Designed |
-| IntelliVOD | Semantic video library — timestamp-level RAG search across video transcriptions | 📐 Designed |
-| Journee | AI travel companion — RAG over travel datasets for context-aware itinerary planning, budget estimation, and offline-first journaling | 📐 Designed |
-
-> Full architecture docs, system designs, and build status for
-> all projects available at
-> **[ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)**
+| Project Omega | Enterprise-grade distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔬 Research |
+| Taskiee → AI-Ops Board | Expanding Taskiee with event-driven monitoring & AI root-cause analysis | 📐 Designing |
+| CodeQuest Playground | Gamified backend learning platform — isolated WebContainer sandboxes | 📐 Designed |
+| IntelliVOD | Semantic video library — timestamp-level RAG search across transcriptions | 📐 Designed |
+| Journee | AI travel companion — context-aware itinerary planning and budget estimation | 📐 Designed |
 
 ---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prathmesh_1d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-desai-288656288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshpdesai@gmail.com)
-
 
 # 💻 Tech Stack & Tools
 
@@ -78,13 +69,14 @@ system architecture and documented technical decisions.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🛡️ DevOps, Tools & Observability
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
 ### 🤖 AI & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🎨 Frontend & UI Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 # 📊 GitHub Stats:
 
 <table>
@@ -103,9 +95,6 @@ system architecture and documented technical decisions.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pd241008&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
