@@ -86,13 +86,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pd241008&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pd241008&theme=tokyonight&hide_border=true" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=pd241008&theme=dark&hide_border=false" />
+      <img src="https://streak-stats.demolab.com?user=pd241008&theme=tokyonight&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd241008&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pd241008&theme=tokyonight&hide_border=true&layout=compact" />
     </td>
   </tr>
 </table>
