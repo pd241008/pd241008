@@ -1,14 +1,14 @@
 # 💫 About Me
 
 👋 Hi, I'm **Prathmesh P. Desai** 🔧 Backend-Focused Full Stack Developer | Technical Lead | AI/ML Systems  
-[cite_start]🎓 B.Tech Computer Science — SRM University, KTR (2023–2027) [cite: 114, 115]
-[cite_start]🏆 Technical Lead — Milan '25 & '26 [cite: 81, 83]
+🎓 B.Tech Computer Science — SRM University, KTR (2023–2027)  
+🏆 Technical Lead — Milan '25 & '26  
 🚀 I build production-grade backend systems, async pipelines, and developer tooling. I care about system architecture — how things fail, how they scale, and why certain decisions matter under real load.
 
-[cite_start]**Currently building:** IntelliDoc — an AI document intelligence platform with a distributed async ingestion pipeline, semantic search, and infra-aware health reporting. [cite: 18, 20]
+**Currently building:** IntelliDoc — an AI document intelligence platform with a distributed async ingestion pipeline, semantic search, and infra-aware health reporting.
 
-[cite_start]📫 **Reach me:** prathmeshpdesai@gmail.com [cite: 65]
-[cite_start]🌐 **Portfolio:** [ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app) [cite: 11]
+📫 **Reach me:** prathmeshpdesai@gmail.com  
+🌐 **Portfolio:** [ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Project | What it is | Status |
 |---|---|---|
-| [Milan Core Platform](https://www.srmmilan.in) | [cite_start]Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures [cite: 85, 90] | 🏁 Operated & Retired |
-| [ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit) | Convention-driven Express scaffolding. [cite_start]`npx @pd241008/expresskit init` [cite: 101, 107] | ✅ Live on npm |
-| [IntelliDoc](https://github.com/pd241008/IntelliDoc-Query) | [cite_start]Async document intelligence backend — OCR → Celery → Semantic Indexing [cite: 18, 20] | 🔨 Building |
-| [Taskiee](https://github.com/pd241008/Taskiee) | [cite_start]Role-based task management portal — Neo-brutalist Kanban with drag-and-drop [cite: 22] | ✅ Live |
-| [ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app) | Terminal-based portfolio. [cite_start]The terminal IS the router. [cite: 28] | ✅ Live |
+| [Milan Core Platform](https://www.srmmilan.in) | Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures | 🏁 Operated & Retired |
+| [ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit) | Convention-driven Express scaffolding. `npx @pd241008/expresskit init` | ✅ Live on npm |
+| [IntelliDoc](https://github.com/pd241008/IntelliDoc-Query) | Async document intelligence backend — OCR → Celery → Semantic Indexing | 🔨 Building |
+| [Taskiee](https://github.com/pd241008/Taskiee) | Role-based task management portal — Neo-brutalist Kanban with drag-and-drop | ✅ Live |
+| [ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app) | Terminal-based portfolio. The terminal IS the router. | ✅ Live |
 | [AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/) | ML pollution forecast model | ✅ Live |
-| [NeuroTrack](https://neuro-track-lime.vercel.app/) | [cite_start]AI wellness dashboard with semantic journal search [cite: 108, 111] | ✅ Live |
+| [NeuroTrack](https://neuro-track-lime.vercel.app/) | AI wellness dashboard with semantic journal search | ✅ Live |
 
 ---
 
-## [cite_start]⚡ Production Metrics (Milan Platform) [cite: 85, 89, 90]
+## ⚡ Production Metrics (Milan Platform)
 
-- [cite_start]🎫 **5,400+ passes sold** processed across dual ticket tiers [cite: 85]
-- [cite_start]📈 **99.9% uptime** — zero service crashes under peak load [cite: 90]
-- [cite_start]💾 **~60-70MB** Node.js backend memory footprint [cite: 90]
-- [cite_start]🔐 Dual auth flows: Google OAuth + custom server-generated OTP [cite: 85]
-- [cite_start]🛡 Combined email + IP rate limiting against abuse vectors [cite: 86]
-- [cite_start]☁️ AWS EC2 + PM2 + Prometheus + Grafana + Loki observability stack [cite: 89]
+- 🎫 **5,400+ passes sold** processed across dual ticket tiers
+- 📈 **99.9% uptime** — zero service crashes under peak load
+- 💾 **~60-70MB** Node.js backend memory footprint
+- 🔐 Dual auth flows: Google OAuth + custom server-generated OTP
+- 🛡 Combined email + IP rate limiting against abuse vectors
+- ☁️ AWS EC2 + PM2 + Prometheus + Grafana + Loki observability stack
 
 ---
 
@@ -43,28 +43,39 @@
 |---|---|---|
 | Project Omega | Enterprise-grade distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔬 Research |
 | Taskiee → AI-Ops Board | Expanding Taskiee with event-driven monitoring & AI root-cause analysis | 📐 Designing |
-| CodeQuest Playground | [cite_start]Gamified backend learning platform — isolated WebContainer sandboxes [cite: 23] | 📐 Designed |
+| CodeQuest Playground | Gamified backend learning platform — isolated WebContainer sandboxes | 📐 Designed |
 | IntelliVOD | Semantic video library — timestamp-level search across transcriptions | 📐 Designed |
-| NeoShell | [cite_start]Zero-config Neovim IDE host — Event-driven architecture via DevTrace v2 [cite: 1, 9] | 📐 Designing |
+| NeoShell | Zero-config Neovim IDE host — Event-driven architecture via DevTrace v2 | 📐 Designing |
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prathmesh_1d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-desai-288656288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshpdesai@gmail.com)
+
+---
 
 # 💻 Tech Stack & Tools
 
 ### 🧠 Languages
-[cite_start]![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DE3423.svg?style=for-the-badge&logo=scala&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) [cite: 72]
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DE3423.svg?style=for-the-badge&logo=scala&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 > **Note:** Currently migrating **ExpressKit** and **NeoUI** parsers from TypeScript to a **Rust OS-based parser** to eliminate V8 overhead and enable near-instant cross-platform scaffolding.
 
+### ⚙️ Backend & APIs
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-%236C47FF.svg?style=for-the-badge&logo=clerk&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-%23EA422A.svg?style=for-the-badge&logo=convex&logoColor=white)
+
+### 🗄️ Database & Cloud Infra
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🛡️ DevOps, Tools & Observability
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+
+### 🎨 Frontend & UI Tools
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
-### [cite_start]🗄️ Database & Cloud Infra [cite: 75, 76]
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <table>
   <tr>
