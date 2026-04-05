@@ -46,8 +46,14 @@
 | CodeQuest Playground | Gamified backend learning platform — isolated WebContainer sandboxes | 📐 Designed |
 | IntelliVOD | Semantic video library — timestamp-level search across transcriptions | 📐 Designed |
 | NeoShell | Zero-config Neovim IDE host — Event-driven architecture via DevTrace v2 | 📐 Designing |
-
+ 
+ 
+ 
+ **Full architecture docs, system designs, and build status for
+> all projects available at
+> **[ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)**
 ---
+
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prathmesh_1d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-desai-288656288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshpdesai@gmail.com)
