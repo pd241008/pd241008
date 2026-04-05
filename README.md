@@ -49,7 +49,7 @@
  
  
  
- **Full architecture docs, system designs, and build status for
+ **Full architecture docs, system designs, and build status for**
 > all projects available at
 > **[ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)**
 ---
