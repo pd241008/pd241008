@@ -102,4 +102,4 @@
 
 ---
 
-*If you read the source code of something I built and found something interesting — that was intentional.* in here can we add top languages and trophies also 
+*If you read the source code of something I built and found something interesting — that was intentional.* 
