@@ -97,7 +97,7 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pd241008&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=pd241008&theme=tokyo-night&hide_border=true" />
+      <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=pd241008&theme=tokyonight&no-frame=true&row=2&column=3" />
     </td>
   </tr>
 </table>
