@@ -2,7 +2,7 @@
 
 👋 Hi, I'm **Prathmesh P. Desai** 🔧 Backend-Focused Full Stack Developer | Technical Lead | AI/ML Systems  
 🎓 B.Tech Computer Science — SRM University, KTR (2023–2027)  
-🏆 Technical Lead — Milan '25 & '26  
+🏆 Technical Lead — Directorate of Student Affairs (Milan '25 & '26)  
 ☁️ Technical Manager — Amazon SBG SRMIST (Student Builder Group)  
 🚀 I build production-grade backend systems, async pipelines, and developer tooling. I care about system architecture — how things fail, how they scale, and why certain decisions matter under real load.
 
@@ -46,7 +46,13 @@
 | Project | What it is | Stage |
 | :--- | :--- | :--- |
 | **Project Omega** | Enterprise-grade distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔨 Building |
-| **Taskiee → AI-Ops Board** | Expanding Taskiee with event-driven monitoring & AI root-cause analysis | 📐 Designing |
+| **NEURO** | Zero-trust compiler pipeline — architected using Rust, C#, and C++ | 🔨 Building |
+| **Aegis** | Distributed telemetry engine — Go ring-buffer edge agents, Scala/Akka actor brain, RAG diagnostic briefings via gRPC/Protobuf | 🔨 Building |
+| **OmniStat** | Polyglot observability pipeline — Scala GitHub GraphQL ingestion, Go BFF gateway, neo-brutalist terminal HUD | 🔨 Building |
+| **PrimeVector** | Go LSH structural vectorization engine — cosine similarity, Kafka → Protobuf → Scala risk intelligence pipeline | 🔨 Building |
+| **SyntaxFlow** | Text-to-diagram engine — Go/TinyGo WASM parser, DFS cycle breaking, A* orthogonal routing, ELK layout in Web Workers | 📐 Designing |
+| **Gamify** | Serverless esports tracking pipeline — Go + GitHub Actions cron ingestion, Cassandra (DataStax Astra) for time-series match data, Upstash QStash for zero-worker delayed notifications | 🔨 Building |
+| **Taskiee → AI-Ops Board**| Expanding Taskiee with event-driven monitoring & AI root-cause analysis | 📐 Designing |
 | **CollabStory** | Real-time collaborative branching narrative platform — Convex reactive backend, branching DAG data structure | 📐 Designed |
 | **CodeQuest Playground** | Gamified backend learning platform — isolated WebContainer sandboxes | 📐 Designed |
 | **IntelliVOD** | Semantic video library — timestamp-level search across transcriptions | 📐 Designed |
