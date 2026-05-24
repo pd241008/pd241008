@@ -51,7 +51,7 @@
 | CollabStory | Real-time collaborative branching narrative platform — Convex reactive backend, branching DAG data structure | 📐 Designed |
 | CodeQuest Playground | Gamified backend learning platform — isolated WebContainer sandboxes | 📐 Designed |
 | IntelliVOD | Semantic video library — timestamp-level search across transcriptions | 📐 Designed |
-| NeoShell | Zero-config Neovim IDE host — Event-driven architecture via DevTrace v2 | 📐 Designing |
+| NeoShell | Zero-config Neovim IDE host — Event-driven architecture via DevTrace | 📐 Designing |
 
 
 
