@@ -1,8 +1,10 @@
 # 💫 About Me
 
-👋 Hi, I'm **Prathmesh P. Desai** 🔧 Backend-Focused Full Stack Developer | Technical Lead | AI/ML Systems  
+👋 Hi, I'm **Prathmesh P. Desai**  
+🔧 Backend-Focused Full Stack Developer | Technical Lead | AI/ML Systems  
 🎓 B.Tech Computer Science — SRM University, KTR (2023–2027)  
 🏆 Technical Lead — Milan '25 & '26  
+☁️ Technical Manager — Amazon SBG SRMIST (Student Builder Group)  
 🚀 I build production-grade backend systems, async pipelines, and developer tooling. I care about system architecture — how things fail, how they scale, and why certain decisions matter under real load.
 
 **Currently building:** IntelliDoc — an AI document intelligence platform with a distributed async ingestion pipeline, semantic search, and infra-aware health reporting.
@@ -18,10 +20,13 @@
 |---|---|---|
 | [Milan Core Platform](https://www.srmmilan.in) | Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures | 🏁 Operated & Retired |
 | [ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit) | Convention-driven Express scaffolding. `npx @pd241008/expresskit init` | ✅ Live on npm |
-| [IntelliDoc](https://github.com/pd241008/IntelliDoc-Query) | Async document intelligence backend — OCR → Celery → Semantic Indexing | 🔨 Building |
-| [Taskiee](https://github.com/pd241008/Taskiee) | Role-based task management portal — Neo-brutalist Kanban with drag-and-drop | ✅ Live |
+| [NeoUI](https://ui-library-three.vercel.app/) | Neo-brutalist component library — third iteration, Vitest configured, full sandbox docs | ✅ Live |
+| [IntelliDoc](https://github.com/pd241008/IntelliDoc-Query) | Async document intelligence backend — OCR → Celery → Semantic Indexing | 🚢 Shipping |
+| [Taskiee](https://github.com/pd241008/Taskiee) | RBAC task management — PRESIDENT/ADMIN/Developer hierarchy, dnd-kit Kanban, built in ~3 days using NeoUI + ExpressKit | ✅ Live |
+| [Gram Sevak](https://github.com/pd241008/Gram-Sevak) | NLP complaint management — keyword-based categorization, voice complaint metadata, Express + FastAPI + Next.js | ✅ Live |
+| [DevTrace](https://github.com/pd241008/DevTrace) | Rust-based event proxy — event sourcing, CQRS, plugin trait system | 🚢 Shipping |
 | [ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app) | Terminal-based portfolio. The terminal IS the router. | ✅ Live |
-| [AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/) | ML pollution forecast model | ✅ Live |
+| [AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/) | Full MLOps loop — Decision Tree on CPCB data, FastAPI on HuggingFace, Gemini synthetic data, Next.js frontend | ✅ Live |
 | [NeuroTrack](https://neuro-track-lime.vercel.app/) | AI wellness dashboard with semantic journal search | ✅ Live |
 
 ---
@@ -43,15 +48,17 @@
 |---|---|---|
 | Project Omega | Enterprise-grade distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔬 Research |
 | Taskiee → AI-Ops Board | Expanding Taskiee with event-driven monitoring & AI root-cause analysis | 📐 Designing |
+| CollabStory | Real-time collaborative branching narrative platform — Convex reactive backend, branching DAG data structure | 📐 Designed |
 | CodeQuest Playground | Gamified backend learning platform — isolated WebContainer sandboxes | 📐 Designed |
 | IntelliVOD | Semantic video library — timestamp-level search across transcriptions | 📐 Designed |
 | NeoShell | Zero-config Neovim IDE host — Event-driven architecture via DevTrace v2 | 📐 Designing |
- 
- 
- 
- **Full architecture docs, system designs, and build status for**
+
+
+
+**Full architecture docs, system designs, and build status for**
 > all projects available at
 > **[ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)**
+
 ---
 
 
@@ -102,4 +109,4 @@
 
 ---
 
-*If you read the source code of something I built and found something interesting — that was intentional.* 
+*If you read the source code of something I built and found something interesting — that was intentional.*
