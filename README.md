@@ -46,7 +46,7 @@
 
 | Project | What it is | Stage |
 |---|---|---|
-| Project Omega | Enterprise-grade distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔬 Research |
+| Project Omega | Enterprise-grade distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔨 Building |
 | Taskiee → AI-Ops Board | Expanding Taskiee with event-driven monitoring & AI root-cause analysis | 📐 Designing |
 | CollabStory | Real-time collaborative branching narrative platform — Convex reactive backend, branching DAG data structure | 📐 Designed |
 | CodeQuest Playground | Gamified backend learning platform — isolated WebContainer sandboxes | 📐 Designed |
