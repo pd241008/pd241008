@@ -1,6 +1,7 @@
 # 💫 About Me
 
-👋 Hi, I'm **Prathmesh P. Desai** 🔧 Backend-Focused Full Stack Developer | Technical Lead | AI/ML Systems  
+👋 Hi, I'm **Prathmesh P. Desai**  
+🔧 Backend-Focused Full Stack Developer | Technical Lead | AI/ML Systems  
 🎓 B.Tech Computer Science — SRM University, KTR (2023–2027)  
 🏆 Technical Lead — Directorate of Student Affairs (Milan '25 & '26)  
 ☁️ Technical Manager — Amazon SBG SRMIST (Student Builder Group)  
@@ -19,25 +20,26 @@
 | :--- | :--- | :--- |
 | **[Milan Core Platform](https://www.srmmilan.in)** | Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures | 🏁 Operated & Retired |
 | **[ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit)** | Convention-driven Express scaffolding. `npx @pd241008/expresskit init` | ✅ Live on npm |
-| **[NeoUI](https://ui-library-three.vercel.app/)** | Neo-brutalist component library — third iteration, Vitest configured, full sandbox docs | ✅ Live |
+| **[NeoUI](https://www.npmjs.com/package/@pd241008/neoui)** | Neo-brutalist component library — Rust-based CLI, Radix UI primitives, Vitest + Storybook. `npx @pd241008/neoui init` | ✅ Live on npm |
 | **[IntelliDoc](https://github.com/pd241008/IntelliDoc-Query)** | Async document intelligence backend — OCR → Celery → Semantic Indexing | 🚢 Shipping |
+| **[DevTrace](https://github.com/pd241008/DevTrace)** | Rust-based event proxy — event sourcing, CQRS, plugin trait system | 🚢 Shipping |
+| **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler pipeline — C# hand-written recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | 🚢 Shipping |
 | **[Taskiee](https://github.com/pd241008/Taskiee)** | RBAC task management — PRESIDENT/ADMIN/Developer hierarchy, dnd-kit Kanban, built in ~3 days using NeoUI + ExpressKit | ✅ Live |
 | **[Gram Sevak](https://github.com/pd241008/Gram-Sevak)** | NLP complaint management — keyword-based categorization, voice complaint metadata, Express + FastAPI + Next.js | ✅ Live |
-| **[DevTrace](https://github.com/pd241008/DevTrace)** | Rust-based event proxy — event sourcing, CQRS, plugin trait system | 🚢 Shipping |
 | **[ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app)** | Terminal-based portfolio. The terminal IS the router. | ✅ Live |
 | **[AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/)** | Full MLOps loop — Decision Tree on CPCB data, FastAPI on HuggingFace, Gemini synthetic data, Next.js frontend | ✅ Live |
-| **[NeuroTrack](https://neuro-track-lime.vercel.app/)**| AI wellness dashboard with semantic journal search | ✅ Live |
+| **[NeuroTrack](https://neuro-track-lime.vercel.app/)** | AI wellness dashboard with semantic journal search | ✅ Live |
 
 ---
 
 ## ⚡ Production Metrics (Milan Platform)
 
-* 🎫 **5,400+ passes sold** processed across dual ticket tiers
-* 📈 **99.9% uptime** — zero service crashes under peak load
-* 💾 **~60-70MB** Node.js backend memory footprint
-* 🔐 Dual auth flows: Google OAuth + custom server-generated OTP
-* 🛡 Combined email + IP rate limiting against abuse vectors
-* ☁️ AWS EC2 + PM2 + Prometheus + Grafana + Loki observability stack
+- 🎫 **5,400+ passes sold** processed across dual ticket tiers
+- 📈 **99.9% uptime** — zero service crashes under peak load
+- 💾 **~60-70MB** Node.js backend memory footprint
+- 🔐 Dual auth flows: Google OAuth + custom server-generated OTP
+- 🛡 Combined email + IP rate limiting against abuse vectors
+- ☁️ AWS EC2 + PM2 + Prometheus + Grafana + Loki observability stack
 
 ---
 
@@ -46,17 +48,16 @@
 | Project | What it is | Stage |
 | :--- | :--- | :--- |
 | **Project Omega** | Enterprise-grade distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔨 Building |
-| **NEURO** | Zero-trust compiler pipeline — architected using Rust, C#, and C++ | 🔨 Building |
 | **Aegis** | Distributed telemetry engine — Go ring-buffer edge agents, Scala/Akka actor brain, RAG diagnostic briefings via gRPC/Protobuf | 🔨 Building |
 | **OmniStat** | Polyglot observability pipeline — Scala GitHub GraphQL ingestion, Go BFF gateway, neo-brutalist terminal HUD | 🔨 Building |
 | **PrimeVector** | Go LSH structural vectorization engine — cosine similarity, Kafka → Protobuf → Scala risk intelligence pipeline | 🔨 Building |
-| **SyntaxFlow** | Text-to-diagram engine — Go/TinyGo WASM parser, DFS cycle breaking, A* orthogonal routing, ELK layout in Web Workers | 📐 Designing |
 | **Gamify** | Serverless esports tracking pipeline — Go + GitHub Actions cron ingestion, Cassandra (DataStax Astra) for time-series match data, Upstash QStash for zero-worker delayed notifications | 🔨 Building |
-| **Taskiee → AI-Ops Board**| Expanding Taskiee with event-driven monitoring & AI root-cause analysis | 📐 Designing |
-| **CollabStory** | Real-time collaborative branching narrative platform — Convex reactive backend, branching DAG data structure | 📐 Designed |
-| **CodeQuest Playground** | Gamified backend learning platform — isolated WebContainer sandboxes | 📐 Designed |
-| **IntelliVOD** | Semantic video library — timestamp-level search across transcriptions | 📐 Designed |
+| **SyntaxFlow** | Text-to-diagram engine — Go/TinyGo WASM parser, DFS cycle breaking, A* orthogonal routing, ELK layout in Web Workers | 📐 Designing |
+| **Taskiee → AI-Ops Board** | Expanding Taskiee with event-driven monitoring & AI root-cause analysis | 📐 Designing |
 | **NeoShell** | Zero-config Neovim IDE host — Event-driven architecture via DevTrace | 📐 Designing |
+| **CollabStory** | Real-time collaborative branching narrative platform — Convex reactive backend, branching DAG data structure | 📐 Designed |
+| **CodeQuest Playground** | Gamified backend learning — Docker + gVisor isolated containers, Monaco Editor, hidden integration test validation | 📐 Designed |
+| **IntelliVOD** | Semantic video library — timestamp-level search across transcriptions | 📐 Designed |
 
 > Full architecture docs, system designs, and build status for all projects available at **[ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)**
 
@@ -84,7 +85,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-> **Note:** Currently migrating **ExpressKit** and **NeoUI** parsers from TypeScript to a **Rust OS-based parser** to eliminate V8 overhead and enable near-instant cross-platform scaffolding.
+> **Note:** Currently migrating **ExpressKit** and **NeoUI** parsers from TypeScript to a **Rust-based CLI** to eliminate V8 overhead and enable near-instant cross-platform scaffolding.
 
 ### ⚙️ Backend & APIs
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
