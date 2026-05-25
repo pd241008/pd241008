@@ -22,13 +22,14 @@
 | **[ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit)** | Convention-driven Express scaffolding. `npx @pd241008/expresskit init` | ✅ Live on npm |
 | **[NeoUI](https://www.npmjs.com/package/@pd241008/neoui)** | Neo-brutalist component library — Rust-based CLI, Radix UI primitives, Vitest + Storybook. `npx @pd241008/neoui init` | ✅ Live on npm |
 | **[IntelliDoc](https://github.com/pd241008/IntelliDoc-Query)** | Async document intelligence backend — OCR → Celery → Semantic Indexing | 🚢 Shipping |
-| **[DevTrace](https://github.com/pd241008/DevTrace)** | Rust-based event proxy — event sourcing, CQRS, plugin trait system | 🚢 Shipping |
+| **[DevTrace](https://www.npmjs.com/package/@pd241008/devtrace)** | Rust observability engine — Tokio MPSC conveyor belt ingestion (10k buffer), SQLite event store, SQL-backed query engine, CQRS architecture. `npm install @pd241008/devtrace` | ✅ Live on npm |
 | **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler pipeline — C# hand-written recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | 🚢 Shipping |
 | **[Taskiee](https://github.com/pd241008/Taskiee)** | RBAC task management — PRESIDENT/ADMIN/Developer hierarchy, dnd-kit Kanban, built in ~3 days using NeoUI + ExpressKit | ✅ Live |
 | **[Gram Sevak](https://github.com/pd241008/Gram-Sevak)** | NLP complaint management — keyword-based categorization, voice complaint metadata, Express + FastAPI + Next.js | ✅ Live |
 | **[ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app)** | Terminal-based portfolio. The terminal IS the router. | ✅ Live |
 | **[AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/)** | Full MLOps loop — Decision Tree on CPCB data, FastAPI on HuggingFace, Gemini synthetic data, Next.js frontend | ✅ Live |
 | **[NeuroTrack](https://neuro-track-lime.vercel.app/)** | AI wellness dashboard with semantic journal search | ✅ Live |
+| **[Supply Chain Risk Intelligence](https://github.com/jaxcode23/Multi-Agent-Supply-Chain-Risk-Intelligence-System)** | Polyglot multi-agent AI platform — Go scraping gateway, Scala ZIO/Akka processing hub, Python RAG agents, Rust orchestrator, Neo4j supplier graph. Co-authored & maintained | 🔨 Building |
 
 ---
 
@@ -84,8 +85,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-> **Note:** Currently migrating **ExpressKit** and **NeoUI** parsers from TypeScript to a **Rust-based CLI** to eliminate V8 overhead and enable near-instant cross-platform scaffolding.
+> **ExpressKit** and **NeoUI** now ship with a Rust-based CLI, eliminating V8 overhead for near-instant cross-platform scaffolding.
 
 ### ⚙️ Backend & APIs
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
