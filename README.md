@@ -14,22 +14,49 @@
 
 ---
 
-## 🚀 Shipped
+## 🚀 Production Systems
 
 | Project | What it is | Status |
 | :--- | :--- | :--- |
 | **[Milan Core Platform](https://www.srmmilan.in)** | Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures | 🏁 Operated & Retired |
 | **[ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit)** | Convention-driven Express scaffolding. `npx @pd241008/expresskit init` | ✅ Live on npm |
 | **[NeoUI](https://www.npmjs.com/package/@pd241008/neoui)** | Neo-brutalist component library — Rust-based CLI, Radix UI primitives, Vitest + Storybook. `npx @pd241008/neoui init` | ✅ Live on npm |
-| **[IntelliDoc](https://github.com/pd241008/IntelliDoc-Query)** | Async document intelligence backend — OCR → Celery → Semantic Indexing | 🚢 Shipping |
 | **[DevTrace](https://www.npmjs.com/package/@pd241008/devtrace)** | Rust observability engine — Tokio MPSC conveyor belt ingestion (10k buffer), SQLite event store, SQL-backed query engine, CQRS architecture. `npm install @pd241008/devtrace` | ✅ Live on npm |
-| **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler pipeline — C# hand-written recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | 🚢 Shipping |
 | **[Taskiee](https://github.com/pd241008/Taskiee)** | RBAC task management — PRESIDENT/ADMIN/Developer hierarchy, dnd-kit Kanban, built in ~3 days using NeoUI + ExpressKit | ✅ Live |
 | **[Gram Sevak](https://github.com/pd241008/Gram-Sevak)** | NLP complaint management — keyword-based categorization, voice complaint metadata, Express + FastAPI + Next.js | ✅ Live |
 | **[ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app)** | Terminal-based portfolio. The terminal IS the router. | ✅ Live |
 | **[AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/)** | Full MLOps loop — Decision Tree on CPCB data, FastAPI on HuggingFace, Gemini synthetic data, Next.js frontend | ✅ Live |
 | **[NeuroTrack](https://neuro-track-lime.vercel.app/)** | AI wellness dashboard with semantic journal search | ✅ Live |
+
+---
+
+## 🚢 Active Development
+
+| Project | What it is | Status |
+| :--- | :--- | :--- |
+| **[IntelliDoc](https://github.com/pd241008/IntelliDoc-Query)** | Async document intelligence backend — OCR → Celery → Semantic Indexing | 🚢 Shipping |
+| **[Gamify](https://github.com/pd241008/Gamify)** | Serverless esports analytics platform — Go + GitHub Actions cron ingestion, Cassandra (DataStax Astra) for time-series match data, Upstash QStash for zero-worker delayed notifications | 🚢 Shipping |
+| **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler pipeline — C# hand-written recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | 🚢 Shipping |
 | **[Supply Chain Risk Intelligence](https://github.com/jaxcode23/Multi-Agent-Supply-Chain-Risk-Intelligence-System)** | Polyglot multi-agent AI platform — Go scraping gateway, Scala ZIO/Akka processing hub, Python RAG agents, Rust orchestrator, Neo4j supplier graph. Co-authored & maintained | 🔨 Building |
+
+---
+
+## 🔬 Research & Architecture
+
+| Project | What it is | Stage |
+| :--- | :--- | :--- |
+| **Project Omega** | Enterprise-grade distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔨 Building |
+| **Aegis** | Distributed telemetry engine — Go ring-buffer edge agents, Scala/Akka actor brain, RAG diagnostic briefings via gRPC/Protobuf | 🔨 Building |
+| **OmniStat** | Polyglot observability pipeline — Scala GitHub GraphQL ingestion, Go BFF gateway, neo-brutalist terminal HUD | 🔨 Building |
+| **PrimeVector** | Go LSH structural vectorization engine — cosine similarity, Kafka → Protobuf → Scala risk intelligence pipeline | 🔨 Building |
+| **SyntaxFlow** | Text-to-diagram engine — Go/TinyGo WASM parser, DFS cycle breaking, A* orthogonal routing, ELK layout in Web Workers | 📐 Designing |
+| **Taskiee → AI-Ops Board** | Expanding Taskiee with event-driven monitoring & AI root-cause analysis | 📐 Designing |
+| **NeoShell** | Zero-config Neovim IDE host — Event-driven architecture via DevTrace | 📐 Designing |
+| **CollabStory** | Real-time collaborative branching narrative platform — Convex reactive backend, branching DAG data structure | 📐 Designed |
+| **CodeQuest Playground** | Gamified backend learning — Docker + gVisor isolated containers, Monaco Editor, hidden integration test validation | 📐 Designed |
+| **IntelliVOD** | Semantic video library — timestamp-level search across transcriptions | 📐 Designed |
+
+> Full architecture docs, system designs, and build status for all projects available at **[ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)**
 
 ---
 
@@ -41,26 +68,6 @@
 - 🔐 Dual auth flows: Google OAuth + custom server-generated OTP
 - 🛡 Combined email + IP rate limiting against abuse vectors
 - ☁️ AWS EC2 + PM2 + Prometheus + Grafana + Loki observability stack
-
----
-
-## 🔬 Research & In-Design
-
-| Project | What it is | Stage |
-| :--- | :--- | :--- |
-| **Project Omega** | Enterprise-grade distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔨 Building |
-| **Aegis** | Distributed telemetry engine — Go ring-buffer edge agents, Scala/Akka actor brain, RAG diagnostic briefings via gRPC/Protobuf | 🔨 Building |
-| **OmniStat** | Polyglot observability pipeline — Scala GitHub GraphQL ingestion, Go BFF gateway, neo-brutalist terminal HUD | 🔨 Building |
-| **PrimeVector** | Go LSH structural vectorization engine — cosine similarity, Kafka → Protobuf → Scala risk intelligence pipeline | 🔨 Building |
-| **Gamify** | Serverless esports tracking pipeline — Go + GitHub Actions cron ingestion, Cassandra (DataStax Astra) for time-series match data, Upstash QStash for zero-worker delayed notifications | 🔨 Building |
-| **SyntaxFlow** | Text-to-diagram engine — Go/TinyGo WASM parser, DFS cycle breaking, A* orthogonal routing, ELK layout in Web Workers | 📐 Designing |
-| **Taskiee → AI-Ops Board** | Expanding Taskiee with event-driven monitoring & AI root-cause analysis | 📐 Designing |
-| **NeoShell** | Zero-config Neovim IDE host — Event-driven architecture via DevTrace | 📐 Designing |
-| **CollabStory** | Real-time collaborative branching narrative platform — Convex reactive backend, branching DAG data structure | 📐 Designed |
-| **CodeQuest Playground** | Gamified backend learning — Docker + gVisor isolated containers, Monaco Editor, hidden integration test validation | 📐 Designed |
-| **IntelliVOD** | Semantic video library — timestamp-level search across transcriptions | 📐 Designed |
-
-> Full architecture docs, system designs, and build status for all projects available at **[ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)**
 
 ---
 
