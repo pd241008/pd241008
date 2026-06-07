@@ -23,6 +23,7 @@
 | **[NeoUI](https://www.npmjs.com/package/@pd241008/neoui)** | Neo-brutalist component library — Rust-based CLI, Radix UI primitives, Vitest + Storybook. `npx @pd241008/neoui init` | ✅ Live on npm |
 | **[DevTrace](https://github.com/pd241008/DevTrace)** | Rust observability engine — Tokio MPSC conveyor belt ingestion (10k buffer), SQLite event store, SQL-backed query engine, CQRS architecture. Multi-language: `npm`, `cargo`, `pip`, `go install` | ✅ Live · Multi-Platform |
 | **[Taskiee](https://github.com/pd241008/Taskiee)** | RBAC task management — PRESIDENT/ADMIN/Developer hierarchy, dnd-kit Kanban, built in ~3 days using NeoUI + ExpressKit | ✅ Live |
+| **[Gamify](https://gamify-t8cn.vercel.app/)** | Serverless esports analytics platform — Go + GitHub Actions cron ingestion, Cassandra (DataStax Astra) for time-series match data, Upstash QStash for zero-worker delayed notifications | ✅ Live |
 | **[Gram Sevak](https://github.com/pd241008/Gram-Sevak)** | NLP complaint management — keyword-based categorization, voice complaint metadata, Express + FastAPI + Next.js | ✅ Live |
 | **[ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app)** | Terminal-based portfolio. The terminal IS the router. | ✅ Live |
 | **[AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/)** | Full MLOps loop — Decision Tree on CPCB data, FastAPI on HuggingFace, Gemini synthetic data, Next.js frontend | ✅ Live |
@@ -35,8 +36,7 @@
 | Project | What it is | Status |
 | :--- | :--- | :--- |
 | **[IntelliDoc](https://github.com/pd241008/IntelliDoc-Query)** | Async document intelligence backend — OCR → Celery → Semantic Indexing | 🚢 Shipping |
-| **[Gamify](https://github.com/pd241008/Gamify)** | Serverless esports analytics platform — Go + GitHub Actions cron ingestion, Cassandra (DataStax Astra) for time-series match data, Upstash QStash for zero-worker delayed notifications | 🚢 Shipping |
-| **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler pipeline — C# hand-written recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | 🚢 Shipping |
+| **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler pipeline — C# hand-written recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | 🔨 Building |
 | **[Supply Chain Risk Intelligence](https://github.com/jaxcode23/Multi-Agent-Supply-Chain-Risk-Intelligence-System)** | Polyglot multi-agent AI platform — Go scraping gateway, Scala ZIO/Akka processing hub, Python RAG agents, Rust orchestrator, Neo4j supplier graph. Co-authored & maintained | 🔨 Building |
 
 ---
