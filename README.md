@@ -19,6 +19,7 @@
 | Project | What it is | Status |
 | :--- | :--- | :--- |
 | **[Milan Core Platform](https://www.srmmilan.in)** | Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures | 🏁 Operated & Retired |
+| **[AdvGuard](https://github.com/pd241008/Adv-Guard)** | Adversarial ML defense framework — introduces DACM (Discrete Adversarial Constraint Mapping) for structurally valid tabular perturbations, async RabbitMQ retraining pipeline, FGSM/PGD/JSMA simulation on NSL-KDD & CICIDS2017. **Research accepted at IEEE CSR 2026, Lisbon.** | 🏁 Research Complete |
 | **[ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit)** | Convention-driven Express scaffolding. `npx @pd241008/expresskit init` | ✅ Live on npm |
 | **[NeoUI](https://www.npmjs.com/package/@pd241008/neoui)** | Neo-brutalist component library — Rust-based CLI, Radix UI primitives, Vitest + Storybook. `npx @pd241008/neoui init` | ✅ Live on npm |
 | **[DevTrace](https://github.com/pd241008/DevTrace)** | Rust observability engine — Tokio MPSC conveyor belt ingestion (10k buffer), SQLite event store, SQL-backed query engine, CQRS architecture. Multi-language: `npm`, `cargo`, `pip`, `go install` | ✅ Live · Multi-Platform |
@@ -28,6 +29,16 @@
 | **[ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app)** | Terminal-based portfolio. The terminal IS the router. | ✅ Live |
 | **[AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/)** | Full MLOps loop — Decision Tree on CPCB data, FastAPI on HuggingFace, Gemini synthetic data, Next.js frontend | ✅ Live |
 | **[NeuroTrack](https://neuro-track-lime.vercel.app/)** | AI wellness dashboard with semantic journal search | ✅ Live |
+
+---
+
+## 📄 Research
+
+| Paper | Venue | Status |
+| :--- | :--- | :--- |
+| **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | 2026 IEEE International Conference on Cyber Security and Resilience (IEEE CSR), Lisbon, Portugal — August 3–5, 2026 | ✅ Accepted |
+
+> Introduces **DACM (Discrete Adversarial Constraint Mapping)** — a novel algorithm for mapping continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable adversarial payloads against tabular network telemetry. Empirically validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** under severe attack parameters (ε = 0.15). Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard).
 
 ---
 
@@ -87,7 +98,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![Scala](https://img.shields.io/badge/scala-%23DE3423.svg?style=for-the-badge&logo=scala&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
