@@ -1,16 +1,18 @@
-# 💫 About Me
+# Prathmesh P. Desai
 
-👋 Hi, I'm **Prathmesh P. Desai**  
-🔧 Backend-Focused Full Stack Developer | Technical Lead | AI/ML Systems  
+> I build systems that handle real load — async pipelines, distributed backends, and infra that fails gracefully. I care about why architectural decisions matter, not just that they work.
+
 🎓 B.Tech Computer Science — SRM University, KTR (2023–2027)  
 🏆 Technical Lead — Directorate of Student Affairs (Milan '25 & '26)  
-☁️ Technical Manager — Amazon SBG SRMIST (Student Builder Group)  
-🚀 I build production-grade backend systems, async pipelines, and developer tooling. I care about system architecture — how things fail, how they scale, and why certain decisions matter under real load.
+☁️ Technical Manager — Amazon Student Builder Group, SRMIST  
+📫 prathmeshpdesai@gmail.com &nbsp;|&nbsp; 🌐 [ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)
 
-**Currently building:** IntelliDoc — an AI document intelligence platform with a distributed async ingestion pipeline, semantic search, and infra-aware health reporting.
+---
 
-📫 **Reach me:** prathmeshpdesai@gmail.com  
-🌐 **Portfolio:** [ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)
+## ⚡ Production Metrics (Milan Platform)
+
+> 5,400+ passes sold · 4K+ concurrent users · ₹0 payment failures · 99.9% uptime  
+> AWS EC2 + PM2 + Prometheus + Grafana + Loki · Dual auth: Google OAuth + custom OTP · ~60-70MB Node.js footprint
 
 ---
 
@@ -19,15 +21,15 @@
 | Project | What it is | Status |
 | :--- | :--- | :--- |
 | **[Milan Core Platform](https://www.srmmilan.in)** | Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures | 🏁 Operated & Retired |
-| **[AdvGuard](https://github.com/pd241008/Adv-Guard)** | Adversarial ML defense framework — introduces DACM (Discrete Adversarial Constraint Mapping) for structurally valid tabular perturbations, async RabbitMQ retraining pipeline, FGSM/PGD/JSMA simulation on NSL-KDD & CICIDS2017. **Research accepted at IEEE CSR 2026, Lisbon.** | 🏁 Research Complete |
+| **[AdvGuard](https://github.com/pd241008/Adv-Guard)** | Adversarial ML defense — DACM algorithm for structurally valid tabular perturbations, async RabbitMQ retraining, FGSM/PGD/JSMA on NSL-KDD & CICIDS2017. **Accepted at IEEE CSR 2026, Lisbon.** | 🏁 Research Complete |
+| **[DevTrace](https://github.com/pd241008/DevTrace)** | Rust observability engine — Tokio MPSC ingestion (10k buffer), SQLite event store, CQRS architecture. Ships on `npm`, `cargo`, `pip`, `go install` | ✅ Live · Multi-Platform |
 | **[ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit)** | Convention-driven Express scaffolding. `npx @pd241008/expresskit init` | ✅ Live on npm |
-| **[NeoUI](https://www.npmjs.com/package/@pd241008/neoui)** | Neo-brutalist component library — Rust-based CLI, Radix UI primitives, Vitest + Storybook. `npx @pd241008/neoui init` | ✅ Live on npm |
-| **[DevTrace](https://github.com/pd241008/DevTrace)** | Rust observability engine — Tokio MPSC conveyor belt ingestion (10k buffer), SQLite event store, SQL-backed query engine, CQRS architecture. Multi-language: `npm`, `cargo`, `pip`, `go install` | ✅ Live · Multi-Platform |
-| **[Taskiee](https://github.com/pd241008/Taskiee)** | RBAC task management — PRESIDENT/ADMIN/Developer hierarchy, dnd-kit Kanban, built in ~3 days using NeoUI + ExpressKit | ✅ Live |
-| **[Gamify](https://gamify-t8cn.vercel.app/)** | Serverless esports analytics platform — Go + GitHub Actions cron ingestion, Cassandra (DataStax Astra) for time-series match data, Upstash QStash for zero-worker delayed notifications | ✅ Live |
-| **[Gram Sevak](https://github.com/pd241008/Gram-Sevak)** | NLP complaint management — keyword-based categorization, voice complaint metadata, Express + FastAPI + Next.js | ✅ Live |
+| **[NeoUI](https://www.npmjs.com/package/@pd241008/neoui)** | Neo-brutalist component library — Rust-based CLI, Radix UI primitives, Vitest + Storybook | ✅ Live on npm |
+| **[Gamify](https://gamify-t8cn.vercel.app/)** | Serverless esports analytics — Go + GitHub Actions cron ingestion, Cassandra time-series, Upstash QStash zero-worker notifications | ✅ Live |
+| **[Taskiee](https://github.com/pd241008/Taskiee)** | RBAC task management — PRESIDENT/ADMIN/Developer hierarchy, dnd-kit Kanban, built in ~3 days on NeoUI + ExpressKit | ✅ Live |
 | **[ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app)** | Terminal-based portfolio. The terminal IS the router. | ✅ Live |
-| **[AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/)** | Full MLOps loop — Decision Tree on CPCB data, FastAPI on HuggingFace, Gemini synthetic data, Next.js frontend | ✅ Live |
+| **[Gram Sevak](https://github.com/pd241008/Gram-Sevak)** | NLP complaint management — keyword categorization, voice complaint metadata, Express + FastAPI + Next.js | ✅ Live |
+| **[AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/)** | Full MLOps loop — Decision Tree on CPCB data, FastAPI on HuggingFace, Gemini synthetic data | ✅ Live |
 | **[NeuroTrack](https://neuro-track-lime.vercel.app/)** | AI wellness dashboard with semantic journal search | ✅ Live |
 
 ---
@@ -36,9 +38,9 @@
 
 | Paper | Venue | Status |
 | :--- | :--- | :--- |
-| **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | 2026 IEEE International Conference on Cyber Security and Resilience (IEEE CSR), Lisbon, Portugal — August 3–5, 2026 | ✅ Accepted |
+| **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | IEEE CSR 2026 — Lisbon, Portugal · August 3–5 | ✅ Accepted |
 
-> Introduces **DACM (Discrete Adversarial Constraint Mapping)** — a novel algorithm for mapping continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable adversarial payloads against tabular network telemetry. Empirically validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** under severe attack parameters (ε = 0.15). Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard).
+> Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at ε = 0.15. Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard).
 
 ---
 
@@ -46,51 +48,34 @@
 
 | Project | What it is | Status |
 | :--- | :--- | :--- |
-| **[IntelliDoc](https://github.com/pd241008/IntelliDoc-Query)** | Async document intelligence backend — OCR → Celery → Semantic Indexing | 🚢 Shipping |
-| **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler pipeline — C# hand-written recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | 🔨 Building |
-| **[Supply Chain Risk Intelligence](https://github.com/jaxcode23/Multi-Agent-Supply-Chain-Risk-Intelligence-System)** | Polyglot multi-agent AI platform — Go scraping gateway, Scala ZIO/Akka processing hub, Python RAG agents, Rust orchestrator, Neo4j supplier graph. Co-authored & maintained | 🔨 Building |
+| **[IntelliDoc](https://github.com/pd241008/IntelliDoc-Query)** | Async document intelligence — OCR → Celery → Semantic Indexing pipeline | 🚢 Shipping |
+| **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler — C# recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | 🔨 Building |
+| **[Supply Chain Risk Intelligence](https://github.com/jaxcode23/Multi-Agent-Supply-Chain-Risk-Intelligence-System)** | Multi-agent AI platform — Go scraping gateway, Scala ZIO/Akka hub, Python RAG agents, Rust orchestrator, Neo4j supplier graph | 🔨 Building |
 
 ---
 
-## 🔬 Research & Architecture
+## 🗺️ Planned & Exploratory
 
-| Project | What it is | Stage |
+> These are architecture explorations and designs-in-progress — not active codebases. Some will ship, some won't. Documented here for transparency.
+
+| Project | Concept | Stage |
 | :--- | :--- | :--- |
-| **Project Omega** | Enterprise-grade distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔨 Building |
-| **Aegis** | Distributed telemetry engine — Go ring-buffer edge agents, Scala/Akka actor brain, RAG diagnostic briefings via gRPC/Protobuf | 🔨 Building |
+| **TASCP** | Trajectory-Aware Spiral Constraint Projection — novel adversarial ML defense algorithm targeting USENIX Security / NDSS | 📝 Research |
+| **Project Omega** | Distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔨 Building |
+| **Aegis** | Distributed telemetry — Go ring-buffer edge agents, Scala/Akka actor brain, RAG briefings via gRPC/Protobuf | 🔨 Building |
 | **OmniStat** | Polyglot observability pipeline — Scala GitHub GraphQL ingestion, Go BFF gateway, neo-brutalist terminal HUD | 🔨 Building |
-| **PrimeVector** | Go LSH structural vectorization engine — cosine similarity, Kafka → Protobuf → Scala risk intelligence pipeline | 🔨 Building |
-| **SyntaxFlow** | Text-to-diagram engine — Go/TinyGo WASM parser, DFS cycle breaking, A* orthogonal routing, ELK layout in Web Workers | 📐 Designing |
-| **Taskiee → AI-Ops Board** | Expanding Taskiee with event-driven monitoring & AI root-cause analysis | 📐 Designing |
-| **NeoShell** | Zero-config Neovim IDE host — Event-driven architecture via DevTrace | 📐 Designing |
-| **CollabStory** | Real-time collaborative branching narrative platform — Convex reactive backend, branching DAG data structure | 📐 Designed |
-| **CodeQuest Playground** | Gamified backend learning — Docker + gVisor isolated containers, Monaco Editor, hidden integration test validation | 📐 Designed |
+| **PrimeVector** | Go LSH vectorization engine — cosine similarity, Kafka → Protobuf → Scala risk pipeline | 🔨 Building |
+| **SyntaxFlow** | Text-to-diagram engine — Go/TinyGo WASM parser, DFS cycle breaking, A* orthogonal routing | 📐 Designing |
+| **CodeQuest** | Gamified backend learning — Docker + gVisor containers, Monaco Editor, hidden integration tests | 📐 Designing |
+| **NeoShell** | Zero-config Neovim IDE host via DevTrace event bus | 📐 Designing |
+| **CollabStory** | Real-time branching narrative — Convex reactive backend, DAG story structure | 📐 Designed |
 | **IntelliVOD** | Semantic video library — timestamp-level search across transcriptions | 📐 Designed |
 
-> Full architecture docs, system designs, and build status for all projects available at **[ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)**
+> Full architecture docs and system designs: **[ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)**
 
 ---
 
-## ⚡ Production Metrics (Milan Platform)
-
-- 🎫 **5,400+ passes sold** processed across dual ticket tiers
-- 📈 **99.9% uptime** — zero service crashes under peak load
-- 💾 **~60-70MB** Node.js backend memory footprint
-- 🔐 Dual auth flows: Google OAuth + custom server-generated OTP
-- 🛡 Combined email + IP rate limiting against abuse vectors
-- ☁️ AWS EC2 + PM2 + Prometheus + Grafana + Loki observability stack
-
----
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prathmesh_1d) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-desai-288656288) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshpdesai@gmail.com)
-
----
-
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack
 
 ### 🧠 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -98,14 +83,12 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![Scala](https://img.shields.io/badge/scala-%23DE3423.svg?style=for-the-badge&logo=scala&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-> **ExpressKit** and **NeoUI** now ship with a Rust-based CLI, eliminating V8 overhead for near-instant cross-platform scaffolding.
 
 ### ⚙️ Backend & APIs
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -130,7 +113,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🛡️ DevOps, Tools & Observability
+### 🛡️ DevOps & Observability
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
@@ -138,21 +121,15 @@
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) 
-![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
-### 🎨 Frontend & UI Tools
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) 
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -175,10 +152,13 @@
   </tr>
 </table>
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+---
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prathmesh_1d) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-desai-288656288) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshpdesai@gmail.com)
 
 ---
 
