@@ -1,4 +1,4 @@
-# Prathmesh P. Desai
+# Prathmesh Desai
 
 > I build systems that handle real load — async pipelines, distributed backends, and infra that fails gracefully. I care about why architectural decisions matter, not just that they work.
 
