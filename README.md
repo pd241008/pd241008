@@ -60,7 +60,6 @@
 
 | Project | Concept | Stage |
 | :--- | :--- | :--- |
-| **TASCP** | Trajectory-Aware Spiral Constraint Projection — novel adversarial ML defense algorithm targeting USENIX Security / NDSS | 📝 Research |
 | **Project Omega** | Distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔨 Building |
 | **Aegis** | Distributed telemetry — Go ring-buffer edge agents, Scala/Akka actor brain, RAG briefings via gRPC/Protobuf | 🔨 Building |
 | **OmniStat** | Polyglot observability pipeline — Scala GitHub GraphQL ingestion, Go BFF gateway, neo-brutalist terminal HUD | 🔨 Building |
