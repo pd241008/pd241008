@@ -4,7 +4,7 @@
 
 🎓 B.Tech Computer Science — SRM University, KTR (2023–2027)  
 🏆 Technical Lead — Directorate of Student Affairs (Milan '25 & '26)  
-☁️ Technical Manager — Amazon Student Builder Group, SRMIST  
+☁️ Cloud and DevOps Manager — Amazon Student Builder Group, SRMIST  
 📫 prathmeshpdesai@gmail.com &nbsp;|&nbsp; 🌐 [ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)
 
 ---
@@ -21,7 +21,7 @@
 | Project | What it is | Status |
 | :--- | :--- | :--- |
 | **[Milan Core Platform](https://www.srmmilan.in)** | Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures | 🏁 Operated & Retired |
-| **[AdvGuard](https://github.com/pd241008/Adv-Guard)** | Adversarial ML defense — DACM algorithm for structurally valid tabular perturbations, async RabbitMQ retraining, FGSM/PGD/JSMA on NSL-KDD & CICIDS2017. **Accepted at IEEE CSR 2026, Lisbon.** | 🏁 Research Complete |
+| **[AdvGuard](https://github.com/pd241008/Adv-Guard)** | Adversarial ML defense — DACM algorithm for structurally valid tabular perturbations, async RabbitMQ retraining, FGSM/PGD/JSMA on NSL-KDD & CICIDS2017 | 🏁 Research Complete |
 | **[DevTrace](https://github.com/pd241008/DevTrace)** | Rust observability engine — Tokio MPSC ingestion (10k buffer), SQLite event store, CQRS architecture. Ships on `npm`, `cargo`, `pip`, `go install` | ✅ Live · Multi-Platform |
 | **[ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit)** | Convention-driven Express scaffolding. `npx @pd241008/expresskit init` | ✅ Live on npm |
 | **[NeoUI](https://www.npmjs.com/package/@pd241008/neoui)** | Neo-brutalist component library — Rust-based CLI, Radix UI primitives, Vitest + Storybook | ✅ Live on npm |
@@ -31,16 +31,17 @@
 | **[Gram Sevak](https://github.com/pd241008/Gram-Sevak)** | NLP complaint management — keyword categorization, voice complaint metadata, Express + FastAPI + Next.js | ✅ Live |
 | **[AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/)** | Full MLOps loop — Decision Tree on CPCB data, FastAPI on HuggingFace, Gemini synthetic data | ✅ Live |
 | **[NeuroTrack](https://neuro-track-lime.vercel.app/)** | AI wellness dashboard with semantic journal search | ✅ Live |
+| **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler — C# recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | ✅ Live |
 
 ---
 
 ## 📄 Research
 
-| Paper | Venue | Status |
+| Project | What it explores | Status |
 | :--- | :--- | :--- |
-| **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | IEEE CSR 2026 — Lisbon, Portugal · August 3–5 | ✅ Accepted |
-
-> Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at ε = 0.15. Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard).
+| **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at ε = 0.15. Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard). | ✅ Accepted |
+| **MIDAS (Micro-Inference Defense with Adaptive State)** | Adaptive-state adversarial defense for constrained embedded inference, explored across two hardware tracks: a Rust multi-threaded pipeline on ARM Cortex-A76 (Raspberry Pi 5), and a bare-metal C implementation on ARM Cortex-M4 (STM32F4) with dedicated hardware characterization. | 🔨 In Progress |
+| **SentinelMesh** | Gossip-protocol-based distributed anomaly detection system for collective, decentralized network defense, evaluated on UNSW-NB15. Full draft with results tables complete. | 🔨 In Progress |
 
 ---
 
@@ -49,8 +50,12 @@
 | Project | What it is | Status |
 | :--- | :--- | :--- |
 | **[IntelliDoc](https://github.com/pd241008/IntelliDoc-Query)** | Async document intelligence — OCR → Celery → Semantic Indexing pipeline | 🚢 Shipping |
-| **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler — C# recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | 🔨 Building |
 | **[Supply Chain Risk Intelligence](https://github.com/jaxcode23/Multi-Agent-Supply-Chain-Risk-Intelligence-System)** | Multi-agent AI platform — Go scraping gateway, Scala ZIO/Akka hub, Python RAG agents, Rust orchestrator, Neo4j supplier graph | 🔨 Building |
+| **ClipSync** | Two-way push-based clipboard sync between Windows and WSL2 — Rust orchestration layer, C++ shared-memory/spinlock core (mmap'd backing file), Raylib visualization | 🔨 Building |
+| **Aegis** | Distributed telemetry — Go ring-buffer edge agents, Scala/Akka actor brain, RAG briefings via gRPC/Protobuf | 🔨 Building |
+| **OmniStat** | Polyglot observability pipeline — Scala GitHub GraphQL ingestion, Go BFF gateway, neo-brutalist terminal HUD | 🔨 Building |
+| **PrimeVector** | Go LSH vectorization engine — cosine similarity, Kafka → Protobuf → Scala risk pipeline | 🔨 Building |
+| **Pikernal** | Minimal RTOS-style Raspberry Pi kernel, derived from NEURO's runtime research | 📐 Designing |
 
 ---
 
@@ -61,9 +66,6 @@
 | Project | Concept | Stage |
 | :--- | :--- | :--- |
 | **Project Omega** | Distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔨 Building |
-| **Aegis** | Distributed telemetry — Go ring-buffer edge agents, Scala/Akka actor brain, RAG briefings via gRPC/Protobuf | 🔨 Building |
-| **OmniStat** | Polyglot observability pipeline — Scala GitHub GraphQL ingestion, Go BFF gateway, neo-brutalist terminal HUD | 🔨 Building |
-| **PrimeVector** | Go LSH vectorization engine — cosine similarity, Kafka → Protobuf → Scala risk pipeline | 🔨 Building |
 | **SyntaxFlow** | Text-to-diagram engine — Go/TinyGo WASM parser, DFS cycle breaking, A* orthogonal routing | 📐 Designing |
 | **CodeQuest** | Gamified backend learning — Docker + gVisor containers, Monaco Editor, hidden integration tests | 📐 Designing |
 | **NeoShell** | Zero-config Neovim IDE host via DevTrace event bus | 📐 Designing |
