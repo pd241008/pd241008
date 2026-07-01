@@ -22,16 +22,16 @@
 | :--- | :--- | :--- |
 | **[Milan Core Platform](https://www.srmmilan.in)** | Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures | 🏁 Operated & Retired |
 | **[AdvGuard](https://github.com/pd241008/Adv-Guard)** | Adversarial ML defense — DACM algorithm for structurally valid tabular perturbations, async RabbitMQ retraining, FGSM/PGD/JSMA on NSL-KDD & CICIDS2017 | 🏁 Research Complete |
+| **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler — C# recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | ✅ Live |
 | **[DevTrace](https://github.com/pd241008/DevTrace)** | Rust observability engine — Tokio MPSC ingestion (10k buffer), SQLite event store, CQRS architecture. Ships on `npm`, `cargo`, `pip`, `go install` | ✅ Live · Multi-Platform |
+| **[Gamify](https://gamify-t8cn.vercel.app/)** | Serverless esports analytics — Go + GitHub Actions cron ingestion, Cassandra time-series, Upstash QStash zero-worker notifications | ✅ Live |
 | **[ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit)** | Convention-driven Express scaffolding. `npx @pd241008/expresskit init` | ✅ Live on npm |
 | **[NeoUI](https://www.npmjs.com/package/@pd241008/neoui)** | Neo-brutalist component library — Rust-based CLI, Radix UI primitives, Vitest + Storybook | ✅ Live on npm |
-| **[Gamify](https://gamify-t8cn.vercel.app/)** | Serverless esports analytics — Go + GitHub Actions cron ingestion, Cassandra time-series, Upstash QStash zero-worker notifications | ✅ Live |
 | **[Taskiee](https://github.com/pd241008/Taskiee)** | RBAC task management — PRESIDENT/ADMIN/Developer hierarchy, dnd-kit Kanban, built in ~3 days on NeoUI + ExpressKit | ✅ Live |
-| **[ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app)** | Terminal-based portfolio. The terminal IS the router. | ✅ Live |
 | **[Gram Sevak](https://github.com/pd241008/Gram-Sevak)** | NLP complaint management — keyword categorization, voice complaint metadata, Express + FastAPI + Next.js | ✅ Live |
 | **[AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/)** | Full MLOps loop — Decision Tree on CPCB data, FastAPI on HuggingFace, Gemini synthetic data | ✅ Live |
 | **[NeuroTrack](https://neuro-track-lime.vercel.app/)** | AI wellness dashboard with semantic journal search | ✅ Live |
-| **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler — C# recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | ✅ Live |
+| **[ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app)** | Terminal-based portfolio. The terminal IS the router. | ✅ Live |
 
 ---
 
