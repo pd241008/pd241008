@@ -52,9 +52,9 @@
 | **[IntelliDoc](https://github.com/pd241008/IntelliDoc-Query)** | Async document intelligence — OCR → Celery → Semantic Indexing pipeline | 🚢 Shipping |
 | **[Supply Chain Risk Intelligence](https://github.com/jaxcode23/Multi-Agent-Supply-Chain-Risk-Intelligence-System)** | Multi-agent AI platform — Go scraping gateway, Scala ZIO/Akka hub, Python RAG agents, Rust orchestrator, Neo4j supplier graph | 🔨 Building |
 | **ClipSync** | Two-way push-based clipboard sync between Windows and WSL2 — Rust orchestration layer, C++ shared-memory/spinlock core (mmap'd backing file), Raylib visualization | 🔨 Building |
-| **Aegis** | Distributed telemetry — Go ring-buffer edge agents, Scala/Akka actor brain, RAG briefings via gRPC/Protobuf | 🔨 Building |
-| **OmniStat** | Polyglot observability pipeline — Scala GitHub GraphQL ingestion, Go BFF gateway, neo-brutalist terminal HUD | 🔨 Building |
-| **PrimeVector** | Go LSH vectorization engine — cosine similarity, Kafka → Protobuf → Scala risk pipeline | 🔨 Building |
+| **Aegis** | Distributed telemetry system in active build — Go ring-buffer edge agents feeding a Scala/Akka actor brain, with RAG-generated briefings over gRPC/Protobuf | 🔨 Building |
+| **OmniStat** | Polyglot observability pipeline currently underway — Scala ingesting GitHub GraphQL data, Go BFF gateway wiring it to a neo-brutalist terminal HUD | 🔨 Building |
+| **PrimeVector** | Go-based LSH vectorization engine in development — cosine similarity search feeding a Kafka → Protobuf → Scala risk pipeline | 🔨 Building |
 | **Pikernal** | Minimal RTOS-style Raspberry Pi kernel, derived from NEURO's runtime research | 📐 Designing |
 
 ---
