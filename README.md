@@ -137,6 +137,8 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <table>
   <tr>
     <td>
@@ -148,7 +150,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pd241008&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pd241008&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_langs=CSS,HTML,Dockerfile,Makefile,Shell" alt="Top Languages" />
     </td>
   </tr>
 </table>
