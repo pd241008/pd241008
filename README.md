@@ -137,21 +137,9 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pd241008&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=pd241008&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pd241008&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&exclude_langs=CSS,HTML,Dockerfile,Makefile,Shell,JavaScript,TypeScript" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics including Private Repos" />
+</p>
 
 ---
 
