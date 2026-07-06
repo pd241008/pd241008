@@ -41,7 +41,7 @@
 | :--- | :--- | :--- |
 | **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at ε = 0.15. Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard). | ✅ Accepted |
 | **MIDAS (Micro-Inference Defense with Adaptive State)** | Adaptive-state adversarial defense for constrained embedded inference, explored across two hardware tracks: a Rust multi-threaded pipeline on ARM Cortex-A76 (Raspberry Pi 5), and a bare-metal C implementation on ARM Cortex-M4 (STM32F4) with dedicated hardware characterization. | 🔨 In Progress |
-| **[SentinelMesh](https://github.com/pd241008/SentinelMesh)** | Gossip-protocol-based distributed anomaly detection system for collective, decentralized network defense, evaluated on UNSW-NB15. Full draft with results tables complete. | 🔨 In Progress |
+| **SentinelMesh** | Gossip-protocol-based distributed anomaly detection system for collective, decentralized network defense, evaluated on UNSW-NB15. Full draft with results tables complete. | 🔨 In Progress |
 
 ---
 
@@ -137,9 +137,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics including Private Repos" />
-</p>
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pd241008&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=pd241008&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pd241008&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_langs=CSS,HTML,Dockerfile,Makefile,Shell" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
