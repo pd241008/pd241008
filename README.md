@@ -21,12 +21,12 @@
 | Project | What it is | Status |
 | :--- | :--- | :--- |
 | **[Milan Core Platform](https://www.srmmilan.in)** | Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures | 🏁 Operated & Retired |
-| **[AdvGuard](https://github.com/pd241008/Adv-Guard)** | Adversarial ML defense — DACM algorithm for structurally valid tabular perturbations, async RabbitMQ retraining, FGSM/PGD/JSMA on NSL-KDD & CICIDS2017 | 🏁 Research Complete |
+| **[AdvGuard](https://github.com/pd241008/Adv-Guard)** | Adversarial ML defense — DACM algorithm for structurally valid tabular perturbations, async RabbitMQ retraining, FGSM/PGD/JSMA on NSL-KDD & CICIDS2017 | 🏁 Research Complete — presenting at IEEE CSR 2026, Lisbon (Aug 3–5) |
 | **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler — C# recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | ✅ Live |
 | **[DevTrace](https://github.com/pd241008/DevTrace)** | Rust observability engine — Tokio MPSC ingestion (10k buffer), SQLite event store, CQRS architecture. Ships on `npm`, `cargo`, `pip`, `go install` | ✅ Live · Multi-Platform |
 | **[Gamify](https://gamify-t8cn.vercel.app/)** | Serverless esports analytics — Go + GitHub Actions cron ingestion, Cassandra time-series, Upstash QStash zero-worker notifications | ✅ Live |
-| **[ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit)** | Convention-driven Express scaffolding. `npx @pd241008/expresskit init` | ✅ Live on npm |
-| **[NeoUI](https://www.npmjs.com/package/@pd241008/neoui)** | Neo-brutalist component library — Rust-based CLI, Radix UI primitives, Vitest + Storybook | ✅ Live on npm |
+| **[ExpressKit CLI](https://www.npmjs.com/package/@pd241008/expresskit)** | Convention-driven Express scaffolding. `npx @pd241008/expresskit init` | ✅ Live on npm — Rust rewrite in progress |
+| **[NeoUI](https://www.npmjs.com/package/@pd241008/neoui)** | Neo-brutalist component library — Rust-based CLI, Radix UI primitives, Vitest + Storybook | ✅ Live on npm — full docs & tests |
 | **[Taskiee](https://github.com/pd241008/Taskiee)** | RBAC task management — PRESIDENT/ADMIN/Developer hierarchy, dnd-kit Kanban, built in ~3 days on NeoUI + ExpressKit | ✅ Live |
 | **[Gram Sevak](https://github.com/pd241008/Gram-Sevak)** | NLP complaint management — keyword categorization, voice complaint metadata, Express + FastAPI + Next.js | ✅ Live |
 | **[AQI Prediction Engine](https://aqi-preditcion-model.vercel.app/)** | Full MLOps loop — Decision Tree on CPCB data, FastAPI on HuggingFace, Gemini synthetic data | ✅ Live |
@@ -39,9 +39,10 @@
 
 | Project | What it explores | Status |
 | :--- | :--- | :--- |
-| **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at ε = 0.15. Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard). | ✅ Accepted |
+| **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at ε = 0.15. Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard). | ✅ Accepted — presenting at IEEE CSR 2026 |
+| **SentinelMesh** | Gossip-protocol-based distributed anomaly detection system for collective, decentralized network defense, evaluated on UNSW-NB15 using MCC methodology. | 📤 Submitted — results pending |
 | **MIDAS (Micro-Inference Defense with Adaptive State)** | Adaptive-state adversarial defense for constrained embedded inference, explored across two hardware tracks: a Rust multi-threaded pipeline on ARM Cortex-A76 (Raspberry Pi 5), and a bare-metal C implementation on ARM Cortex-M4 (STM32F4) with dedicated hardware characterization. | 🔨 In Progress |
-| **SentinelMesh** | Gossip-protocol-based distributed anomaly detection system for collective, decentralized network defense, evaluated on UNSW-NB15. Full draft with results tables complete. | 🔨 In Progress |
+| **NEURO, OmniTrace, PrimeVector, Aegis, Project Omega, LST Chennai** | Additional papers in the wider research pipeline (10 papers tracked total), currently at early-draft stage. | ✏️ Early Draft |
 
 ---
 
@@ -49,12 +50,14 @@
 
 | Project | What it is | Status |
 | :--- | :--- | :--- |
-| **[IntelliDoc](https://github.com/pd241008/IntelliDoc-Query)** | Async document intelligence — OCR → Celery → Semantic Indexing pipeline | 🚢 Shipping |
+| **[IntelliDoc](https://github.com/pd241008/IntelliDoc-Query)** | Async document intelligence — OCR → Celery → ChromaDB vector storage pipeline | 🚢 Shipping |
 | **[Supply Chain Risk Intelligence](https://github.com/jaxcode23/Multi-Agent-Supply-Chain-Risk-Intelligence-System)** | Multi-agent AI platform — Go scraping gateway, Scala ZIO/Akka hub, Python RAG agents, Rust orchestrator, Neo4j supplier graph | 🔨 Building |
 | **ClipSync** | Two-way push-based clipboard sync between Windows and WSL2 — Rust orchestration layer, C++ shared-memory/spinlock core (mmap'd backing file), Raylib visualization | 🔨 Building |
 | **Aegis** | Distributed telemetry system in active build — Go ring-buffer edge agents feeding a Scala/Akka actor brain, with RAG-generated briefings over gRPC/Protobuf | 🔨 Building |
 | **OmniStat** | Polyglot observability pipeline currently underway — Scala ingesting GitHub GraphQL data, Go BFF gateway wiring it to a neo-brutalist terminal HUD | 🔨 Building |
 | **PrimeVector** | Go-based LSH vectorization engine in development — cosine similarity search feeding a Kafka → Protobuf → Scala risk pipeline | 🔨 Building |
+| **OmniTrace** | Locally-hosted AI agent system — DevTrace episodic memory, content-addressable storage (CAS), and MCTS reasoning. README/Mermaid docs done; CAS Phase 0/1 review flagged concurrent-write and atomic-write gaps still to resolve. | 🔨 Building |
+| **Project Omega** | Distributed ledger — CQRS, Event Sourcing, Raft consensus, Kafka. Also tracked as an early-draft research paper. | 🔨 Building |
 | **Pikernal** | Minimal RTOS-style Raspberry Pi kernel, derived from NEURO's runtime research | 📐 Designing |
 
 ---
@@ -65,11 +68,10 @@
 
 | Project | Concept | Stage |
 | :--- | :--- | :--- |
-| **Project Omega** | Distributed ledger — CQRS, Event Sourcing, Raft consensus | 🔨 Building |
 | **SyntaxFlow** | Text-to-diagram engine — Go/TinyGo WASM parser, DFS cycle breaking, A* orthogonal routing | 📐 Designing |
-| **CodeQuest** | Gamified backend learning — Docker + gVisor containers, Monaco Editor, hidden integration tests | 📐 Designing |
-| **NeoShell** | Zero-config Neovim IDE host via DevTrace event bus | 📐 Designing |
-| **CollabStory** | Real-time branching narrative — Convex reactive backend, DAG story structure | 📐 Designed |
+| **CodeQuest** | Gamified backend learning — Docker + gVisor containers, Monaco Editor, hidden integration tests, Rust execution engine | 📐 Designing |
+| **NeoShell** | Zero-config Neovim IDE host via DevTrace event bus — Tauri desktop app embedding Neovim | 📐 Designing |
+| **CollabStory** | Real-time collaborative branching narrative — Convex reactive backend + Clerk auth, DAG story structure | 📐 Designed |
 | **IntelliVOD** | Semantic video library — timestamp-level search across transcriptions | 📐 Designed |
 
 > Full architecture docs and system designs: **[ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)**
@@ -134,8 +136,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
