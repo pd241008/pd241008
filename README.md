@@ -42,7 +42,6 @@
 | **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at ε = 0.15. Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard). | ✅ Accepted — presenting at IEEE CSR 2026 |
 | **SentinelMesh** | Gossip-protocol-based distributed anomaly detection system for collective, decentralized network defense, evaluated on UNSW-NB15 using MCC methodology. | 📤 Submitted — results pending |
 | **MIDAS (Micro-Inference Defense with Adaptive State)** | Adaptive-state adversarial defense for constrained embedded inference, explored across two hardware tracks: a Rust multi-threaded pipeline on ARM Cortex-A76 (Raspberry Pi 5), and a bare-metal C implementation on ARM Cortex-M4 (STM32F4) with dedicated hardware characterization. | 🔨 In Progress |
-| **NEURO, OmniTrace, PrimeVector, Aegis, Project Omega, LST Chennai** | Additional papers in the wider research pipeline (10 papers tracked total), currently at early-draft stage. | ✏️ Early Draft |
 
 ---
 
