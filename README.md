@@ -50,7 +50,7 @@
 | Project | What it is | Status |
 | :--- | :--- | :--- |
 | **[IntelliDoc](https://github.com/pd241008/IntelliDoc-Query)** | Async document intelligence — OCR → Celery → ChromaDB vector storage pipeline | 🚢 Shipping |
-| **[Supply Chain Risk Intelligence](https://github.com/jaxcode23/Multi-Agent-Supply-Chain-Risk-Intelligence-System)** | Multi-agent AI platform — Go scraping gateway, Scala ZIO/Akka hub, Python RAG agents, Rust orchestrator, Neo4j supplier graph | 🔨 Building |
+| **[Supply Chain Risk Intelligence](https://github.com/jaxcode23/Multi-Agent-Supply-Chain-Risk-Intelligence-System)** | Multi-agent AI platform — Go scraping gateway, Scala ZIO/Akka hub, Python RAG agents, Rust orchestrator, Neo4j supplier graph. Live: [multi-agent-supply-chain-risk-intel.vercel.app](https://multi-agent-supply-chain-risk-intel.vercel.app/) | 🔨 Building |
 | **ClipSync** | Two-way push-based clipboard sync between Windows and WSL2 — Rust orchestration layer, C++ shared-memory/spinlock core (mmap'd backing file), Raylib visualization | 🔨 Building |
 | **Aegis** | Distributed telemetry system in active build — Go ring-buffer edge agents feeding a Scala/Akka actor brain, with RAG-generated briefings over gRPC/Protobuf | 🔨 Building |
 | **OmniStat** | Polyglot observability pipeline currently underway — Scala ingesting GitHub GraphQL data, Go BFF gateway wiring it to a neo-brutalist terminal HUD | 🔨 Building |
@@ -141,15 +141,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pd241008&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.shion.dev/api?username=pd241008&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=pd241008&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=pd241008&theme=dark&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pd241008&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_langs=CSS,HTML,Dockerfile,Makefile,Shell" alt="Top Languages" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pd241008&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
