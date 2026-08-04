@@ -21,7 +21,7 @@
 | Project | What it is | Status |
 | :--- | :--- | :--- |
 | **[Milan Core Platform](https://www.srmmilan.in)** | Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures | 🏁 Operated & Retired |
-| **[AdvGuard](https://github.com/pd241008/Adv-Guard)** | Adversarial ML defense — DACM algorithm for structurally valid tabular perturbations, async RabbitMQ retraining, FGSM/PGD/JSMA on NSL-KDD & CICIDS2017 | 🏁 Research Complete — presenting at IEEE CSR 2026, Lisbon (Aug 3–5) |
+| **[AdvGuard](https://github.com/pd241008/Adv-Guard)** | Adversarial ML defense — DACM algorithm for structurally valid tabular perturbations, async RabbitMQ retraining, FGSM/PGD/JSMA on NSL-KDD & CICIDS2017 | 🏁 Research Complete — Presented at IEEE CSR 2026, Lisbon (Aug 3–5) |
 | **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler — C# recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | ✅ Live |
 | **[DevTrace](https://github.com/pd241008/DevTrace)** | Rust observability engine — Tokio MPSC ingestion (10k buffer), SQLite event store, CQRS architecture. Ships on `npm`, `cargo`, `pip`, `go install` | ✅ Live · Multi-Platform |
 | **[Gamify](https://gamify-t8cn.vercel.app/)** | Serverless esports analytics — Go + GitHub Actions cron ingestion, Cassandra time-series, Upstash QStash zero-worker notifications | ✅ Live |
@@ -40,7 +40,7 @@
 
 | Project | What it explores | Status |
 | :--- | :--- | :--- |
-| **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at ε = 0.15. Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard). | ✅ Accepted — presenting at IEEE CSR 2026 |
+| **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at ε = 0.15. Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard). | ✅ Presented at IEEE CSR 2026 |
 | **SentinelMesh** | Gossip-protocol-based distributed anomaly detection system for collective, decentralized network defense, evaluated on UNSW-NB15 using MCC methodology. | 📤 Submitted — results pending |
 | **MIDAS (Micro-Inference Defense with Adaptive State)** | Adaptive-state adversarial defense for constrained embedded inference, explored across two hardware tracks: a Rust multi-threaded pipeline on ARM Cortex-A76 (Raspberry Pi 5), and a bare-metal C implementation on ARM Cortex-M4 (STM32F4) with dedicated hardware characterization. | 🔨 In Progress |
 
