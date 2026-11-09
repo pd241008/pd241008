@@ -5,7 +5,7 @@
 🎓 B.Tech Computer Science — SRM University, KTR (2023–2027)  
 🏆 Technical Lead — Directorate of Student Affairs (Milan '25 & '26)  
 ☁️ Cloud and DevOps Manager — Amazon Student Builder Group, SRMIST  
-📫 prathmeshpdesai@gmail.com &nbsp;|&nbsp; 🌐 [ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app) &nbsp;|&nbsp; 🌐 [porfolio](https://pd241008.github.io/Porfolio/)&nbsp;|&nbsp; 🔬 [OpenReview](https://openreview.net/profile?id=%7EPrathmesh_Desai1)
+📫 prathmeshpdesai@gmail.com &nbsp;|&nbsp; 🖥️ [ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app) &nbsp;|&nbsp; 🌐 [Web Portfolio](https://pd241008.github.io/Porfolio/) &nbsp;|&nbsp; 🔬 [OpenReview](https://openreview.net/profile?id=%7EPrathmesh_Desai1)
 
 ---
 
@@ -60,40 +60,49 @@
 | **Project Omega** | Distributed ledger — CQRS, Event Sourcing, Raft consensus, Kafka. Also tracked as an early-draft research paper. | 🔨 Building |
 | **Pikernal** | Minimal RTOS-style Raspberry Pi kernel, derived from NEURO's runtime research | 📐 Designing |
 
-> Full architecture docs and system designs: **[ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)**
+> Full architecture docs and system designs: **[ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app)** &nbsp;|&nbsp; **[Standard Portfolio](https://pd241008.github.io/Porfolio/)**
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧠 Core Languages
+### 🧠 Systems, Kernels & Formal Verification
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+![Lean 4](https://img.shields.io/badge/Lean_4-000000?style=for-the-badge&logo=lean&logoColor=white) 
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white) 
+![WebAssembly](https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### ⚙️ Languages & Distributed Runtimes
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Scala](https://img.shields.io/badge/scala-%23DE3423.svg?style=for-the-badge&logo=scala&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Akka](https://img.shields.io/badge/Akka-15A9CE?style=for-the-badge&logo=akka&logoColor=white) 
+![ZIO](https://img.shields.io/badge/Scala_ZIO-DE3423?style=for-the-badge&logo=scala&logoColor=white)
 
-### ⚙️ Distributed Systems, Backend & Messaging
+### 📡 Messaging, Pipelines & APIs
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white) 
+![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=google&logoColor=white) 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
 ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄️ Data Stores & Storage Engines
+### 🗄️ Data Stores & Vector Engines
 ![Apache Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) 
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛡️ Cloud, Infra & Observability
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -103,8 +112,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ### 🎨 Frontend & Client
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -119,7 +127,7 @@
 <table>
   <tr>
     <td>
-    <img src="https://github-stats-extended.vercel.app/api?username=pd241008&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=pd241008&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=pd241008&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -134,9 +142,11 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials & Links
 
-[![OpenReview](https://img.shields.io/badge/OpenReview-8C1B13?style=for-the-badge&logo=academia&logoColor=white)](https://openreview.net/profile?id=%7EPrathmesh_Desai1) 
+[![OpenReview](https://img.shields.io/badge/OpenReview-8C1B13?style=for-the-badge&logo=googlescholar&logoColor=white)](https://openreview.net/profile?id=%7EPrathmesh_Desai1) 
+[![ctOS Portfolio](https://img.shields.io/badge/ctOS_Portfolio-000000?style=for-the-badge&logo=gnometerminal&logoColor=00FF00)](https://ct-os-dev-portfolio.vercel.app) 
+[![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pd241008.github.io/Porfolio/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-desai-288656288) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshpdesai@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/prathmesh_1d)
