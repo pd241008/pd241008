@@ -5,7 +5,7 @@
 🎓 B.Tech Computer Science — SRM University, KTR (2023–2027)  
 🏆 Technical Lead — Directorate of Student Affairs (Milan '25 & '26)  
 ☁️ Cloud and DevOps Manager — Amazon Student Builder Group, SRMIST  
-📫 prathmeshpdesai@gmail.com &nbsp;|&nbsp; 🌐 [ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)
+📫 prathmeshpdesai@gmail.com &nbsp;|&nbsp; 🌐 [ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app) &nbsp;|&nbsp; 🌐 [porfolio](https://pd241008.github.io/Porfolio/)&nbsp;|&nbsp; 🔬 [OpenReview](https://openreview.net/profile?id=%7EPrathmesh_Desai1)
 
 ---
 
@@ -38,11 +38,12 @@
 
 ## 📄 Research
 
+> 📚 **Author Profile:** [OpenReview — Prathmesh Desai](https://openreview.net/profile?id=%7EPrathmesh_Desai1)
+
 | Project | What it explores | Status |
 | :--- | :--- | :--- |
-| **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at ε = 0.15. Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard). | ✅ Presented at IEEE CSR 2026 |
+| **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at $\epsilon = 0.15$. Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard). | ✅ Presented at IEEE CSR 2026 |
 | **SentinelMesh** | Gossip-protocol-based distributed anomaly detection system for collective, decentralized network defense, evaluated on UNSW-NB15 using MCC methodology. | 📤 Submitted — results pending |
-
 
 ---
 
@@ -59,80 +60,57 @@
 | **Project Omega** | Distributed ledger — CQRS, Event Sourcing, Raft consensus, Kafka. Also tracked as an early-draft research paper. | 🔨 Building |
 | **Pikernal** | Minimal RTOS-style Raspberry Pi kernel, derived from NEURO's runtime research | 📐 Designing |
 
----
-
-## 🗺️ Planned & Exploratory
-
-> These are architecture explorations and designs-in-progress — not active codebases. Some will ship, some won't. Documented here for transparency.
-
-| Project | Concept | Stage |
-| :--- | :--- | :--- |
-| **SyntaxFlow** | Text-to-diagram engine — Go/TinyGo WASM parser, DFS cycle breaking, A* orthogonal routing | 📐 Designing |
-| **CodeQuest** | Gamified backend learning — Docker + gVisor containers, Monaco Editor, hidden integration tests, Rust execution engine | 📐 Designing |
-| **NeoShell** | Zero-config Neovim IDE host via DevTrace event bus — Tauri desktop app embedding Neovim | 📐 Designing |
-| **CollabStory** | Real-time collaborative branching narrative — Convex reactive backend + Clerk auth, DAG story structure | 📐 Designed |
-| **IntelliVOD** | Semantic video library — timestamp-level search across transcriptions | 📐 Designed |
-
 > Full architecture docs and system designs: **[ct-os-dev-portfolio.vercel.app](https://ct-os-dev-portfolio.vercel.app)**
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧠 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+### 🧠 Core Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Scala](https://img.shields.io/badge/scala-%23DE3423.svg?style=for-the-badge&logo=scala&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-### ⚙️ Backend & APIs
+### ⚙️ Distributed Systems, Backend & Messaging
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white) 
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
+![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
-![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Clerk](https://img.shields.io/badge/Clerk-%236C47FF.svg?style=for-the-badge&logo=clerk&logoColor=white) 
-![Convex](https://img.shields.io/badge/Convex-%23EA422A.svg?style=for-the-badge&logo=convex&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🗄️ Database & Cloud Infra
+### 🗄️ Data Stores & Storage Engines
+![Apache Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) 
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛡️ Cloud, Infra & Observability
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🛡️ DevOps & Observability
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
-![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+### 🎨 Frontend & Client
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -158,9 +136,10 @@
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prathmesh_1d) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-desai-288656288) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshpdesai@gmail.com)
+[![OpenReview](https://img.shields.io/badge/OpenReview-8C1B13?style=for-the-badge&logo=academia&logoColor=white)](https://openreview.net/profile?id=%7EPrathmesh_Desai1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-desai-288656288) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshpdesai@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/prathmesh_1d)
 
 ---
 
