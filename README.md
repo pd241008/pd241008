@@ -5,7 +5,7 @@
 🎓 B.Tech Computer Science — SRM University, KTR (2023–2027)  
 🏆 Technical Lead — Directorate of Student Affairs (Milan '25 & '26)  
 ☁️ Cloud and DevOps Manager — Amazon Student Builder Group, SRMIST  
-📫 prathmeshpdesai@gmail.com &nbsp;|&nbsp; 🖥️ [ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app) &nbsp;|&nbsp; 🌐 [Web Portfolio](https://pd241008.github.io/Porfolio/) &nbsp;|&nbsp; 🔬 [OpenReview](https://openreview.net/profile?id=%7EPrathmesh_Desai1)
+📫 prathmeshpdesai@gmail.com &nbsp;|&nbsp; 🖥️ [ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app) &nbsp;|&nbsp; 🌐 [Web Portfolio](https://pd241008.github.io/portfolio/) &nbsp;|&nbsp; 🔬 [OpenReview](https://openreview.net/profile?id=%7EPrathmesh_Desai1)
 
 ---
 
@@ -21,7 +21,7 @@
 | Project | What it is | Status |
 | :--- | :--- | :--- |
 | **[Milan Core Platform](https://www.srmmilan.in)** | Festival ticketing — 5,400+ paid tickets, 4K+ concurrent users, ₹0 payment failures | 🏁 Operated & Retired |
-| **[AdvGuard](https://github.com/pd241008/Adv-Guard)** | Adversarial ML defense — DACM algorithm for structurally valid tabular perturbations, async RabbitMQ retraining, FGSM/PGD/JSMA on NSL-KDD & CICIDS2017 | 🏁 Research Complete — Presented at IEEE CSR 2026, Lisbon (Aug 3–5) |
+| **[AdvGuard](https://github.com/pd241008/Adv-Guard)** | Adversarial ML defense — DACM algorithm for structurally valid tabular perturbations, async RabbitMQ retraining, FGSM/PGD/JSMA on NSL-KDD & CICIDS2017 | 🏁 Published in IEEE CSR 2026, Lisbon (Aug 3–5) |
 | **[NEURO](https://github.com/pd241008/Neuro)** | Zero-trust polyglot compiler — C# recursive descent parser → Rust security auditor → C++ LLVM IR translator. Mathematically guarantees memory safety before codegen | ✅ Live |
 | **[DevTrace](https://github.com/pd241008/DevTrace)** | Rust observability engine — Tokio MPSC ingestion (10k buffer), SQLite event store, CQRS architecture. Ships on `npm`, `cargo`, `pip`, `go install` | ✅ Live · Multi-Platform |
 | **[Gamify](https://gamify-t8cn.vercel.app/)** | Serverless esports analytics — Go + GitHub Actions cron ingestion, Cassandra time-series, Upstash QStash zero-worker notifications | ✅ Live |
@@ -42,8 +42,18 @@
 
 | Project | What it explores | Status |
 | :--- | :--- | :--- |
-| **Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity** | Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at $\epsilon = 0.15$. Implementation: [AdvGuard](https://github.com/pd241008/Adv-Guard). | ✅ Presented at IEEE CSR 2026 |
-| **SentinelMesh** | Gossip-protocol-based distributed anomaly detection system for collective, decentralized network defense, evaluated on UNSW-NB15 using MCC methodology. | 📤 Submitted — results pending |
+| **[Proactive Adversarial Defense Framework Integrating Lifecycle Robustness in Machine Learning Models for Cybersecurity](https://ieeexplore.ieee.org/document/11760000)** | Introduces **DACM (Discrete Adversarial Constraint Mapping)** — maps continuous adversarial gradients onto structurally valid discrete categorical boundaries, enabling real-world executable payloads against tabular network telemetry. Validated on NSL-KDD and CICIDS2017; adversarially trained model sustains **93.00% robust accuracy** at $\epsilon = 0.15$.<br><br>📄 **Published:** [IEEE Xplore (Doc #11760000)](https://ieeexplore.ieee.org/document/11760000) &nbsp;\|&nbsp; 📝 **Preprint:** [OpenReview (PDF)](https://openreview.net/pdf?id=QNcLQT1fb9) &nbsp;\|&nbsp; 💻 **Implementation:** [AdvGuard](https://github.com/pd241008/Adv-Guard) | ✅ Published in [IEEE CSR 2026](https://ieeexplore.ieee.org/document/11760000) |
+| **[Measurement and Prediction of Landsat-derived Land Surface Temperature in Chennai and Bangalore, India, Using a Polyglot Machine Learning Pipeline](https://github.com/pd241008/Helios)** | Polyglot geospatial ML pipeline fusing Landsat 8/9 thermal and multispectral imagery with high-cardinality LULC zoning via Go ingestion, Apache Spark/Scala aggregation, and gradient-boosted ensembles (Chennai $R^2 = 0.7999$, Bangalore $R^2 = 0.529$).<br><br>👤 **Authors:** Prathmesh Desai (First & Corresponding Author)<br>📝 **Preprint:** [OpenReview (PDF)](https://openreview.net/pdf?id=clFP8PEraG) &nbsp;\|&nbsp; 📦 **Artifact:** [Helios Repository](https://github.com/pd241008/Helios) &nbsp;\|&nbsp; 🏷️ **Article Ref:** `UCLIM_103231` | 🎉 **Accepted for Publication (12 Nov 2026)**<br>*Urban Climate* (Elsevier) |
+
+> ### 🏛️ Journal Metrics & Publication Details — *Urban Climate* (Elsevier)
+> - **Article Reference:** `UCLIM_103231` &nbsp;|&nbsp; **Online ISSN:** `2212-0955`
+> - **Authorship:** Prathmesh Desai (First Author & Corresponding Author)
+> - **Preprint:** [OpenReview (PDF)](https://openreview.net/pdf?id=clFP8PEraG)
+> - **Editorial Timeline:** Received at Editorial Office: 25 Sep 2026 · Article Revised: 3 Nov 2026 · **Accepted for Publication: 12 Nov 2026**
+> - **Subject Areas:** Energy (General), Environmental Science (General), Earth and Planetary Sciences (General), Social Sciences (General)
+> - **Journal Metrics & Indexing (*Urban Climate*):**
+>   - **Impact:** 12.2 &nbsp;|&nbsp; **CiteScore:** 7.5 &nbsp;|&nbsp; **Impact Factor:** 12% &nbsp;|&nbsp; **Acceptance Rate:** 12%
+>   - **SJR (2025):** 1.714 &nbsp;|&nbsp; **Quartile:** Q1 &nbsp;|&nbsp; **H-Index:** 102
 
 ---
 
@@ -60,7 +70,7 @@
 | **Project Omega** | Distributed ledger — CQRS, Event Sourcing, Raft consensus, Kafka. Also tracked as an early-draft research paper. | 🔨 Building |
 | **Pikernal** | Minimal RTOS-style Raspberry Pi kernel, derived from NEURO's runtime research | 📐 Designing |
 
-> Full architecture docs and system designs: **[ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app)** &nbsp;|&nbsp; **[Standard Portfolio](https://pd241008.github.io/Porfolio/)**
+> Full architecture docs and system designs: **[ctOS Portfolio](https://ct-os-dev-portfolio.vercel.app)** &nbsp;|&nbsp; **[Standard Portfolio](https://pd241008.github.io/portfolio/)**
 
 ---
 
@@ -133,12 +143,11 @@
       <img src="https://streak-stats.demolab.com?user=pd241008&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pd241008&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 ---
 
@@ -146,7 +155,7 @@
 
 [![OpenReview](https://img.shields.io/badge/OpenReview-8C1B13?style=for-the-badge&logo=googlescholar&logoColor=white)](https://openreview.net/profile?id=%7EPrathmesh_Desai1) 
 [![ctOS Portfolio](https://img.shields.io/badge/ctOS_Portfolio-000000?style=for-the-badge&logo=gnometerminal&logoColor=00FF00)](https://ct-os-dev-portfolio.vercel.app) 
-[![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pd241008.github.io/Porfolio/) 
+[![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pd241008.github.io/portfolio/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-desai-288656288) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshpdesai@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/prathmesh_1d)
